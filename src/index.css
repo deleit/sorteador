@@ -8,6 +8,10 @@ body {
 }
 
 html {
+  font-family: 'Poppins', sans-serif;
+}
+
+html {
   background: #4B69FD;
   border: 2px solid black;
   font-family: 'Poppins', sans-serif;
@@ -19,7 +23,21 @@ html {
   min-height: 100vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+section {
+  width: 100%;
+  text-align: center;
+  max-width: 900px;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 32px;
+  margin-bottom: 36px;
+  color: #4B69FD;
+}
+
+ul li {
+  font-size: 18px;
+  font-weight: 300;
+  margin: 8px 0;
 }
