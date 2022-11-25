@@ -1,8 +1,8 @@
 import React from 'react';
-import Card from '../Card';
-import Formulario from '../Formulario';
-import ListaParticipantes from '../ListaParticipantes';
-import Rodape from '../Rodape';
+import Card from '../componentes/Card';
+import Formulario from '../componentes/Formulario';
+import ListaParticipantes from '../componentes/ListaParticipantes';
+import Rodape from '../componentes/Rodape';
 
 const Configuracao = () => {
     return (
